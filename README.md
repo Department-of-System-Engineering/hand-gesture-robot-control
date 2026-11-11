@@ -25,10 +25,12 @@ A tárolóba a fejlesztés szempontjából legfontosabb programváltozatokat vá
 
 ## Futtatási feltételek
 
-A rendszer fejlesztéséhez Windows környezetet és Python 3.10-et használtam. A szükséges Python-csomagokat a `requirements.txt`, a hardveres és szoftveres előfeltételeket a [`docs/INSTALLATION.md`](docs/INSTALLATION.md) foglalja össze. A MediaPipe `hand_landmarker.task` modellfájlt külön kell beszerezni.
+A rendszer fejlesztéséhez Windows környezetet és Python 3.10-et használtam. A szükséges Python-csomagokat a `requirements.txt`, a hardveres és szoftveres előfeltételeket a [`INSTALLATION.md`](INSTALLATION.md) foglalja össze. A MediaPipe `hand_landmarker.task` modellfájlt külön kell beszerezni.
 
 ## Demonstráció
 
-A rendszer működését a `UR5e_hand_gesture_teleoperation_demo.mp4` című videó szemlélteti. A videót külön, a tároló **Releases** részében teszem elérhetővé.
+A fejlesztett teleoperációs rendszer működését demonstrációs videón mutatom be.
+
+[Demonstrációs videó megtekintése vagy letöltése (MP4)](https://github.com/Department-of-System-Engineering/hand-gesture-robot-control/releases/tag/v1.0)
 
 A forráskódok a saját laboratóriumi összeállításomhoz készültek. A fizikai robot mozgatása megfelelő kalibrációt és biztonságos, felügyelt környezetet igényel.
