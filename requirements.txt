@@ -1,0 +1,11 @@
+# A pontos, laborban hasznalt csomagverziok nem mind archivaltak.
+# Emiatt itt csak a forraskodbol biztosan azonosithato csomagnevek szerepelnek.
+# A mukodo projektkornyezet Python 3.10 volt.
+
+numpy
+opencv-python
+mediapipe
+pygrabber
+pyserial
+ur-rtde
+openni
